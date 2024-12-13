@@ -1,4 +1,4 @@
-# Eduard's Dotfiles
+# Vasile's Dotfiles
 
 This is a repository forked from @driesvints. Check it out: https://github.com/driesvints/dotfiles.
 

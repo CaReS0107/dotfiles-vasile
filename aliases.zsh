@@ -125,7 +125,6 @@ alias gtrigger="git commit --allow-empty -m 'wakey wakey GitHub Actions'"
 alias glog="git --no-pager log --all --color=always --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)' | less -r -X +/[^/]HEAD"
 
 # LSD
-alias ls="lsd"
 alias l="ls -l"
 alias la="ls -a"
 alias lla="ls -la"
@@ -173,5 +172,5 @@ alias mongo-stop="brew services stop mongodb-community"
 alias repo="a restify:repository $1" 
 
 ## MySQL 
-alias mysql.start="cd /Users/eduardlupacescu/Sites/work/mysql-docker && docker-compose up -d"
-alias mysql.stop="cd /Users/eduardlupacescu/Sites/work/mysql-docker && docker-compose down"
+alias mysql.start="cd /Users/vasilepapuc/Sites/work/mysql-docker && docker-compose up -d"
+alias mysql.stop="cd /Users/vasilepapuc/Sites/work/mysql-docker && docker-compose down"
